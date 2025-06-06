@@ -1,0 +1,6 @@
+sounddevice
+vosk
+openai
+numpy
+tabulate
+python-dotenv
